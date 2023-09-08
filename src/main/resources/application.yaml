@@ -10,4 +10,4 @@ eureka:
     registry-with-eureka: false
     fetch-registry: false
 
-    
+
